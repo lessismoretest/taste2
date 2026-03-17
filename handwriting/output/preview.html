@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Handwriting Preview</title>
+  <style>
+    :root {
+      --bg: #f5f1e8;
+      --card: #fffdf8;
+      --ink: #171411;
+      --line: #d8cfbf;
+      --accent: #8d5e2a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 32px;
+      background:
+        radial-gradient(circle at top left, rgba(141, 94, 42, 0.18), transparent 30%),
+        linear-gradient(180deg, #f7f1e4, var(--bg));
+      color: var(--ink);
+      font-family: "Avenir Next", "PingFang SC", sans-serif;
+    }
+    h1 { margin-top: 0; font-size: 30px; }
+    p { max-width: 780px; line-height: 1.6; }
+    .summary {
+      display: inline-flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin: 8px 0 24px;
+    }
+    .summary span {
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: rgba(141, 94, 42, 0.1);
+      color: var(--accent);
+      font-size: 14px;
+    }
+    .page-card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 10px 28px rgba(56, 39, 21, 0.08);
+    }
+    .page-pair {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+    .page-pair img, .lines-grid img {
+      width: 100%;
+      border-radius: 18px;
+      border: 1px solid var(--line);
+      background: white;
+    }
+    .lines-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 14px;
+    }
+    figure {
+      margin: 0;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 12px;
+    }
+    figcaption {
+      margin-top: 8px;
+      min-height: 40px;
+      color: #5a5148;
+      font-size: 13px;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <h1>手写样本自动整理预览</h1>
+  <p>这是一版基于 4 张原始照片生成的自动清理结果，包含清理页、黑白页、文本行切片，以及 OCR 草稿。它的目的不是宣称“完整字体已完成”，而是把你的原始手写真正变成一套可继续制字的结构化素材。</p>
+  <div class="summary">
+    <span>原图 4 张</span>
+    <span>文本块 21 个</span>
+    <span>文本行 17 条</span>
+  </div>
+  
+            <section class="page-card">
+              <h2>IMG_2088.jpeg</h2>
+              <div class="page-pair">
+                <img src="../processed/IMG_2088_clean.png" alt="IMG_2088.jpeg clean">
+                <img src="../processed/IMG_2088_bw.png" alt="IMG_2088.jpeg bw">
+              </div>
+              <div class="lines-grid"><figure><img src="../lines/IMG_2088_line_01.png" alt="IMG_2088_line_01"><figcaption>1  ”/ 人一</figcaption></figure>
+<figure><img src="../lines/IMG_2088_line_02.png" alt="IMG_2088_line_02"><figcaption>| 人LI)</figcaption></figure>
+<figure><img src="../lines/IMG_2088_line_03.png" alt="IMG_2088_line_03"><figcaption></figcaption></figure>
+<figure><img src="../lines/IMG_2088_line_04.png" alt="IMG_2088_line_04"><figcaption>AN 人     站</figcaption></figure>
+<figure><img src="../lines/IMG_2088_line_05.png" alt="IMG_2088_line_05"><figcaption></figcaption></figure></div>
+            </section>
+            
+            <section class="page-card">
+              <h2>IMG_2089.jpeg</h2>
+              <div class="page-pair">
+                <img src="../processed/IMG_2089_clean.png" alt="IMG_2089.jpeg clean">
+                <img src="../processed/IMG_2089_bw.png" alt="IMG_2089.jpeg bw">
+              </div>
+              <div class="lines-grid"><figure><img src="../lines/IMG_2089_line_01.png" alt="IMG_2089_line_01"><figcaption>1 /9   |</figcaption></figure>
+<figure><img src="../lines/IMG_2089_line_02.png" alt="IMG_2089_line_02"><figcaption>1   1m LI      1/</figcaption></figure>
+<figure><img src="../lines/IMG_2089_line_03.png" alt="IMG_2089_line_03"><figcaption></figcaption></figure>
+<figure><img src="../lines/IMG_2089_line_04.png" alt="IMG_2089_line_04"><figcaption></figcaption></figure></div>
+            </section>
+            
+            <section class="page-card">
+              <h2>IMG_2090.jpeg</h2>
+              <div class="page-pair">
+                <img src="../processed/IMG_2090_clean.png" alt="IMG_2090.jpeg clean">
+                <img src="../processed/IMG_2090_bw.png" alt="IMG_2090.jpeg bw">
+              </div>
+              <div class="lines-grid"><figure><img src="../lines/IMG_2090_line_01.png" alt="IMG_2090_line_01"><figcaption></figcaption></figure>
+<figure><img src="../lines/IMG_2090_line_02.png" alt="IMG_2090_line_02"><figcaption></figcaption></figure></div>
+            </section>
+            
+            <section class="page-card">
+              <h2>IMG_2091.jpeg</h2>
+              <div class="page-pair">
+                <img src="../processed/IMG_2091_clean.png" alt="IMG_2091.jpeg clean">
+                <img src="../processed/IMG_2091_bw.png" alt="IMG_2091.jpeg bw">
+              </div>
+              <div class="lines-grid"><figure><img src="../lines/IMG_2091_line_01.png" alt="IMG_2091_line_01"><figcaption>1  1 1 LI     站   、</figcaption></figure>
+<figure><img src="../lines/IMG_2091_line_02.png" alt="IMG_2091_line_02"><figcaption>| 和      TD 、</figcaption></figure>
+<figure><img src="../lines/IMG_2091_line_03.png" alt="IMG_2091_line_03"><figcaption></figcaption></figure>
+<figure><img src="../lines/IMG_2091_line_04.png" alt="IMG_2091_line_04"><figcaption></figcaption></figure>
+<figure><img src="../lines/IMG_2091_line_05.png" alt="IMG_2091_line_05"><figcaption>4了T 再f刀 下作人几 “和二</figcaption></figure>
+<figure><img src="../lines/IMG_2091_line_06.png" alt="IMG_2091_line_06"><figcaption></figcaption></figure></div>
+            </section>
+            
+</body>
+</html>

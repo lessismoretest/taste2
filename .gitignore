@@ -1,0 +1,4 @@
+*.log
+.DS_Store
+.codex
+.ruff_cache

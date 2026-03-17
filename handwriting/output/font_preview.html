@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subset Font Preview</title>
+  <style>
+    @font-face {
+      font-family: "LessiHandSubset";
+      src: url("./LessiHandSubset.ttf") format("truetype");
+    }
+    body {
+      margin: 0;
+      padding: 32px;
+      background: linear-gradient(180deg, #f7f0e3, #efe5d5);
+      color: #1d1712;
+      font-family: "PingFang SC", sans-serif;
+    }
+    .card {
+      max-width: 960px;
+      margin: 0 auto;
+      background: rgba(255,255,255,0.82);
+      backdrop-filter: blur(8px);
+      padding: 28px;
+      border-radius: 24px;
+      box-shadow: 0 18px 40px rgba(48, 33, 16, 0.1);
+    }
+    .font {
+      font-family: "LessiHandSubset", "PingFang SC", sans-serif;
+      font-size: 42px;
+      line-height: 1.5;
+      word-break: break-all;
+      background: #fff;
+      border-radius: 18px;
+      padding: 20px;
+      border: 1px solid #e6dbc7;
+    }
+    .meta {
+      margin-top: 18px;
+      color: #5b5247;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>LessiHandSubset 测试字体</h1>
+    <p>这是一版从 4 张手写照片自动提取并封装出的中文子集测试字体。字形映射依赖 Vision OCR，因此存在误识别，但已经是可安装、可输入的实验版结果。</p>
+    <div class="font">我要的被坚定选择</div>
+    <div class="meta">收录字符数：291</div>
+  </div>
+</body>
+</html>

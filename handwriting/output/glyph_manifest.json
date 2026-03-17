@@ -1,0 +1,2039 @@
+[
+  {
+    "char": "'",
+    "codepoint": 39,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0027.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0027.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_03.png"
+  },
+  {
+    "char": "+",
+    "codepoint": 43,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+002B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+002B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "-",
+    "codepoint": 45,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+002D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+002D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": ".",
+    "codepoint": 46,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+002E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+002E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "/",
+    "codepoint": 47,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+002F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+002F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "0",
+    "codepoint": 48,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0030.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0030.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "2",
+    "codepoint": 50,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0032.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0032.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "5",
+    "codepoint": 53,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0035.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0035.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "C",
+    "codepoint": 67,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0043.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0043.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_01.png"
+  },
+  {
+    "char": "I",
+    "codepoint": 73,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0049.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0049.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "L",
+    "codepoint": 76,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+004C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+004C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "M",
+    "codepoint": 77,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+004D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+004D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "N",
+    "codepoint": 78,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+004E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+004E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "O",
+    "codepoint": 79,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+004F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+004F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "S",
+    "codepoint": 83,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0053.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0053.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "a",
+    "codepoint": 97,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0061.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0061.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "c",
+    "codepoint": 99,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0063.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0063.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "d",
+    "codepoint": 100,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0064.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0064.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "f",
+    "codepoint": 102,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0066.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0066.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "i",
+    "codepoint": 105,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0069.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0069.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "l",
+    "codepoint": 108,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+006C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+006C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "m",
+    "codepoint": 109,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+006D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+006D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "n",
+    "codepoint": 110,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+006E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+006E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "o",
+    "codepoint": 111,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+006F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+006F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "r",
+    "codepoint": 114,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0072.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0072.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "t",
+    "codepoint": 116,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+0074.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+0074.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "“",
+    "codepoint": 8220,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+201C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+201C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "”",
+    "codepoint": 8221,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+201D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+201D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "、",
+    "codepoint": 12289,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+3001.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+3001.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "。",
+    "codepoint": 12290,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+3002.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+3002.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "「",
+    "codepoint": 12300,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+300C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+300C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "一",
+    "codepoint": 19968,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E00.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E00.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "上",
+    "codepoint": 19978,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E0A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E0A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "下",
+    "codepoint": 19979,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E0B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E0B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "不",
+    "codepoint": 19981,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E0D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E0D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "东",
+    "codepoint": 19996,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E1C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E1C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "个",
+    "codepoint": 20010,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E2A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E2A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "举",
+    "codepoint": 20030,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E3E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E3E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "久",
+    "codepoint": 20037,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E45.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E45.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "么",
+    "codepoint": 20040,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E48.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E48.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "之",
+    "codepoint": 20043,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E4B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E4B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "了",
+    "codepoint": 20102,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E86.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E86.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "事",
+    "codepoint": 20107,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E8B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E8B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "些",
+    "codepoint": 20123,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4E9B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4E9B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "交",
+    "codepoint": 20132,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4EA4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4EA4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "产",
+    "codepoint": 20135,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4EA7.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4EA7.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "人",
+    "codepoint": 20154,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4EBA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4EBA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "什",
+    "codepoint": 20160,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4EC0.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4EC0.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "今",
+    "codepoint": 20170,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4ECA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4ECA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "仔",
+    "codepoint": 20180,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4ED4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4ED4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "他",
+    "codepoint": 20182,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4ED6.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4ED6.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "件",
+    "codepoint": 20214,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4EF6.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4EF6.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "任",
+    "codepoint": 20219,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4EFB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4EFB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "会",
+    "codepoint": 20250,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F1A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F1A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "似",
+    "codepoint": 20284,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F3C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F3C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "但",
+    "codepoint": 20294,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F46.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F46.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "低",
+    "codepoint": 20302,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F4E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F4E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "住",
+    "codepoint": 20303,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F4F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F4F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "体",
+    "codepoint": 20307,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F53.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F53.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "作",
+    "codepoint": 20316,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F5C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F5C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "你",
+    "codepoint": 20320,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F60.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F60.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "佻",
+    "codepoint": 20347,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4F7B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4F7B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "保",
+    "codepoint": 20445,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4FDD.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4FDD.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "信",
+    "codepoint": 20449,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+4FE1.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+4FE1.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "倒",
+    "codepoint": 20498,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5012.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5012.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "傥",
+    "codepoint": 20645,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+50A5.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+50A5.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "儿",
+    "codepoint": 20799,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+513F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+513F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "先",
+    "codepoint": 20808,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5148.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5148.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "关",
+    "codepoint": 20851,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5173.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5173.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "再",
+    "codepoint": 20877,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+518D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+518D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "写",
+    "codepoint": 20889,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5199.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5199.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "冲",
+    "codepoint": 20914,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+51B2.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+51B2.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "决",
+    "codepoint": 20915,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+51B3.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+51B3.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "冷",
+    "codepoint": 20919,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+51B7.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+51B7.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "几",
+    "codepoint": 20960,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+51E0.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+51E0.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "出",
+    "codepoint": 20986,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+51FA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+51FA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "刀",
+    "codepoint": 20992,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5200.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5200.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "分",
+    "codepoint": 20998,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5206.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5206.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "到",
+    "codepoint": 21040,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5230.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5230.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "剩",
+    "codepoint": 21097,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5269.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5269.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "动",
+    "codepoint": 21160,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+52A8.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+52A8.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "化",
+    "codepoint": 21270,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5316.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5316.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "十",
+    "codepoint": 21313,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5341.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5341.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "午",
+    "codepoint": 21320,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5348.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5348.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "半",
+    "codepoint": 21322,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+534A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+534A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "压",
+    "codepoint": 21387,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+538B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+538B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "去",
+    "codepoint": 21435,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53BB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53BB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "又",
+    "codepoint": 21448,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53C8.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53C8.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "及",
+    "codepoint": 21450,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53CA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53CA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "反",
+    "codepoint": 21453,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53CD.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53CD.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "受",
+    "codepoint": 21463,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53D7.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53D7.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "变",
+    "codepoint": 21464,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53D8.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53D8.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "叙",
+    "codepoint": 21465,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53D9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53D9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "古",
+    "codepoint": 21476,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53E4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53E4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "只",
+    "codepoint": 21482,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53EA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53EA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "可",
+    "codepoint": 21487,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+53EF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+53EF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "合",
+    "codepoint": 21512,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5408.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5408.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "名",
+    "codepoint": 21517,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+540D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+540D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "后",
+    "codepoint": 21518,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+540E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+540E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "吧",
+    "codepoint": 21543,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5427.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5427.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "告",
+    "codepoint": 21578,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+544A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+544A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "周",
+    "codepoint": 21608,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5468.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5468.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "命",
+    "codepoint": 21629,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+547D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+547D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "品",
+    "codepoint": 21697,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+54C1.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+54C1.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "因",
+    "codepoint": 22240,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+56E0.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+56E0.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "固",
+    "codepoint": 22266,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+56FA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+56FA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "在",
+    "codepoint": 22312,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5728.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5728.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "场",
+    "codepoint": 22330,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+573A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+573A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "圾",
+    "codepoint": 22334,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+573E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+573E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "坑",
+    "codepoint": 22353,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5751.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5751.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "坚",
+    "codepoint": 22362,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+575A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+575A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "壳",
+    "codepoint": 22771,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+58F3.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+58F3.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "备",
+    "codepoint": 22791,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5907.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5907.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "多",
+    "codepoint": 22810,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+591A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+591A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "夜",
+    "codepoint": 22812,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+591C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+591C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "够",
+    "codepoint": 22815,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+591F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+591F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "大",
+    "codepoint": 22823,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5927.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5927.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "天",
+    "codepoint": 22825,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5929.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5929.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "她",
+    "codepoint": 22905,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5979.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5979.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "好",
+    "codepoint": 22909,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+597D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+597D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "妇",
+    "codepoint": 22919,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5987.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5987.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "姑",
+    "codepoint": 22993,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+59D1.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+59D1.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "子",
+    "codepoint": 23376,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5B50.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5B50.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "学",
+    "codepoint": 23398,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5B66.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5B66.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "宁",
+    "codepoint": 23425,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5B81.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5B81.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "守",
+    "codepoint": 23432,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5B88.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5B88.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "完",
+    "codepoint": 23436,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5B8C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5B8C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "定",
+    "codepoint": 23450,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5B9A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5B9A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "审",
+    "codepoint": 23457,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5BA1.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5BA1.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "客",
+    "codepoint": 23458,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5BA2.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5BA2.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "容",
+    "codepoint": 23481,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5BB9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5BB9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "对",
+    "codepoint": 23545,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5BF9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5BF9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "小",
+    "codepoint": 23567,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5C0F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5C0F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "就",
+    "codepoint": 23601,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5C31.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5C31.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "居",
+    "codepoint": 23621,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5C45.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5C45.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "己",
+    "codepoint": 24049,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5DF1.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5DF1.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "已",
+    "codepoint": 24050,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5DF2.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5DF2.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "帮",
+    "codepoint": 24110,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5E2E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5E2E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "干",
+    "codepoint": 24178,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5E72.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5E72.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "并",
+    "codepoint": 24182,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5E76.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5E76.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "应",
+    "codepoint": 24212,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5E94.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5E94.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "开",
+    "codepoint": 24320,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5F00.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5F00.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "归",
+    "codepoint": 24402,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5F52.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5F52.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "待",
+    "codepoint": 24453,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5F85.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5F85.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "很",
+    "codepoint": 24456,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5F88.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5F88.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "後",
+    "codepoint": 24460,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5F8C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5F8C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "微",
+    "codepoint": 24494,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5FAE.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5FAE.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "必",
+    "codepoint": 24517,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5FC5.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5FC5.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "忿",
+    "codepoint": 24575,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+5FFF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+5FFF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "怎",
+    "codepoint": 24590,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+600E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+600E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "怕",
+    "codepoint": 24597,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6015.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6015.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "息",
+    "codepoint": 24687,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+606F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+606F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "您",
+    "codepoint": 24744,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+60A8.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+60A8.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "惯",
+    "codepoint": 24815,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+60EF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+60EF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "意",
+    "codepoint": 24847,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+610F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+610F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "愿",
+    "codepoint": 24895,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+613F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+613F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "慢",
+    "codepoint": 24930,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6162.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6162.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "成",
+    "codepoint": 25104,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6210.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6210.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "我",
+    "codepoint": 25105,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6211.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6211.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "房",
+    "codepoint": 25151,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+623F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+623F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "打",
+    "codepoint": 25171,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6253.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6253.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "扮",
+    "codepoint": 25198,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+626E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+626E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "找",
+    "codepoint": 25214,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+627E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+627E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "把",
+    "codepoint": 25226,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+628A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+628A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "护",
+    "codepoint": 25252,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+62A4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+62A4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "抽",
+    "codepoint": 25277,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+62BD.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+62BD.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "择",
+    "codepoint": 25321,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+62E9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+62E9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "拾",
+    "codepoint": 25342,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+62FE.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+62FE.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "换",
+    "codepoint": 25442,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6362.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6362.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "捩",
+    "codepoint": 25449,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6369.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6369.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "掉",
+    "codepoint": 25481,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6389.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6389.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "接",
+    "codepoint": 25509,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+63A5.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+63A5.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "提",
+    "codepoint": 25552,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+63D0.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+63D0.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "收",
+    "codepoint": 25910,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6536.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6536.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "散",
+    "codepoint": 25955,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6563.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6563.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "断",
+    "codepoint": 26029,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+65AD.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+65AD.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "於",
+    "codepoint": 26044,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+65BC.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+65BC.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "时",
+    "codepoint": 26102,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+65F6.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+65F6.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "明",
+    "codepoint": 26126,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+660E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+660E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "易",
+    "codepoint": 26131,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6613.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6613.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "是",
+    "codepoint": 26159,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+662F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+662F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "晚",
+    "codepoint": 26202,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+665A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+665A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "普",
+    "codepoint": 26222,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+666E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+666E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "更",
+    "codepoint": 26356,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+66F4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+66F4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "曾",
+    "codepoint": 26366,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+66FE.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+66FE.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "替",
+    "codepoint": 26367,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+66FF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+66FF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "月",
+    "codepoint": 26376,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6708.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6708.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "有",
+    "codepoint": 26377,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6709.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6709.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "朋",
+    "codepoint": 26379,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+670B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+670B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "服",
+    "codepoint": 26381,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+670D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+670D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "未",
+    "codepoint": 26410,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+672A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+672A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "朴",
+    "codepoint": 26420,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6734.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6734.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "权",
+    "codepoint": 26435,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6743.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6743.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "来",
+    "codepoint": 26469,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6765.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6765.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "桌",
+    "codepoint": 26700,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+684C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+684C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "档",
+    "codepoint": 26723,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6863.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6863.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "概",
+    "codepoint": 27010,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6982.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6982.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "次",
+    "codepoint": 27425,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6B21.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6B21.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "比",
+    "codepoint": 27604,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6BD4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6BD4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "氣",
+    "codepoint": 27683,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6C23.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6C23.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "治",
+    "codepoint": 27835,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+6CBB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+6CBB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "点",
+    "codepoint": 28857,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+70B9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+70B9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "烧",
+    "codepoint": 28903,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+70E7.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+70E7.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "熊",
+    "codepoint": 29066,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+718A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+718A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "爱",
+    "codepoint": 29233,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7231.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7231.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "牧",
+    "codepoint": 29287,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7267.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7267.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "物",
+    "codepoint": 29289,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7269.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7269.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "环",
+    "codepoint": 29615,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+73AF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+73AF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "现",
+    "codepoint": 29616,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+73B0.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+73B0.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "生",
+    "codepoint": 29983,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+751F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+751F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "用",
+    "codepoint": 29992,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7528.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7528.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "的",
+    "codepoint": 30340,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7684.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7684.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "看",
+    "codepoint": 30475,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+770B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+770B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "知",
+    "codepoint": 30693,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+77E5.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+77E5.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "确",
+    "codepoint": 30830,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+786E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+786E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "磁",
+    "codepoint": 30913,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+78C1.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+78C1.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "社",
+    "codepoint": 31038,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+793E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+793E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "神",
+    "codepoint": 31070,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+795E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+795E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "祥",
+    "codepoint": 31077,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7965.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7965.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "离",
+    "codepoint": 31163,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+79BB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+79BB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "秀",
+    "codepoint": 31168,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+79C0.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+79C0.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "稳",
+    "codepoint": 31283,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7A33.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7A33.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "簡",
+    "codepoint": 31777,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7C21.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7C21.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "精",
+    "codepoint": 31934,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7CBE.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7CBE.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "糙",
+    "codepoint": 31961,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7CD9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7CD9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "系",
+    "codepoint": 31995,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7CFB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7CFB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "紀",
+    "codepoint": 32000,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7D00.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7D00.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "納",
+    "codepoint": 32013,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7D0D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7D0D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "紧",
+    "codepoint": 32039,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7D27.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7D27.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "经",
+    "codepoint": 32463,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7ECF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7ECF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "给",
+    "codepoint": 32473,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7ED9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7ED9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "美",
+    "codepoint": 32654,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+7F8E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+7F8E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "老",
+    "codepoint": 32769,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8001.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8001.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "考",
+    "codepoint": 32771,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8003.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8003.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "者",
+    "codepoint": 32773,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8005.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8005.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "而",
+    "codepoint": 32780,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+800C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+800C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "能",
+    "codepoint": 33021,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+80FD.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+80FD.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "脑",
+    "codepoint": 33041,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8111.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8111.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "自",
+    "codepoint": 33258,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+81EA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+81EA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "至",
+    "codepoint": 33267,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+81F3.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+81F3.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "色",
+    "codepoint": 33394,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8272.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8272.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "苦",
+    "codepoint": 33510,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+82E6.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+82E6.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "落",
+    "codepoint": 33853,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+843D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+843D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "藏",
+    "codepoint": 34255,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+85CF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+85CF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "行",
+    "codepoint": 34892,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+884C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+884C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "表",
+    "codepoint": 34920,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8868.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8868.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "被",
+    "codepoint": 34987,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+88AB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+88AB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "要",
+    "codepoint": 35201,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8981.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8981.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_01.png"
+  },
+  {
+    "char": "观",
+    "codepoint": 35266,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+89C2.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+89C2.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "解",
+    "codepoint": 35299,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+89E3.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+89E3.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "請",
+    "codepoint": 35531,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8ACB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8ACB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "让",
+    "codepoint": 35753,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8BA9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8BA9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "记",
+    "codepoint": 35760,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8BB0.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8BB0.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "设",
+    "codepoint": 35774,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8BBE.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8BBE.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "评",
+    "codepoint": 35780,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8BC4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8BC4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "该",
+    "codepoint": 35813,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8BE5.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8BE5.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "误",
+    "codepoint": 35823,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8BEF.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8BEF.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "说",
+    "codepoint": 35828,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8BF4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8BF4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "起",
+    "codepoint": 36215,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8D77.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8D77.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "越",
+    "codepoint": 36234,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8D8A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8D8A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "足",
+    "codepoint": 36275,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8DB3.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8DB3.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "身",
+    "codepoint": 36523,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8EAB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8EAB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "躺",
+    "codepoint": 36538,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8EBA.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8EBA.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "载",
+    "codepoint": 36733,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8F7D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8F7D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "近",
+    "codepoint": 36817,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8FD1.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8FD1.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "还",
+    "codepoint": 36824,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8FD8.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8FD8.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "这",
+    "codepoint": 36825,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8FD9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8FD9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "进",
+    "codepoint": 36827,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8FDB.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8FDB.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "迷",
+    "codepoint": 36855,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8FF7.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8FF7.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "迹",
+    "codepoint": 36857,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+8FF9.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+8FF9.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_03.png"
+  },
+  {
+    "char": "选",
+    "codepoint": 36873,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+9009.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+9009.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "這",
+    "codepoint": 36889,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+9019.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+9019.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_06.png"
+  },
+  {
+    "char": "過",
+    "codepoint": 36942,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+904E.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+904E.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "選",
+    "codepoint": 36984,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+9078.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+9078.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "避",
+    "codepoint": 36991,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+907F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+907F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "那",
+    "codepoint": 37027,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+90A3.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+90A3.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "都",
+    "codepoint": 37117,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+90FD.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+90FD.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "配",
+    "codepoint": 37197,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+914D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+914D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "钟",
+    "codepoint": 38047,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+949F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+949F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "间",
+    "codepoint": 38388,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+95F4.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+95F4.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "降",
+    "codepoint": 38477,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+964D.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+964D.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "面",
+    "codepoint": 38754,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+9762.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+9762.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  },
+  {
+    "char": "高",
+    "codepoint": 39640,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+9AD8.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+9AD8.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "鱼",
+    "codepoint": 40060,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+9C7C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+9C7C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "！",
+    "codepoint": 65281,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+FF01.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+FF01.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_05.png"
+  },
+  {
+    "char": "（",
+    "codepoint": 65288,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+FF08.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+FF08.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2088_line_01.png"
+  },
+  {
+    "char": "）",
+    "codepoint": 65289,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+FF09.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+FF09.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2089_line_04.png"
+  },
+  {
+    "char": "，",
+    "codepoint": 65292,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+FF0C.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+FF0C.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_05.png"
+  },
+  {
+    "char": "：",
+    "codepoint": 65306,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+FF1A.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+FF1A.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "；",
+    "codepoint": 65307,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+FF1B.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+FF1B.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2090_line_02.png"
+  },
+  {
+    "char": "？",
+    "codepoint": 65311,
+    "pbm_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/raw/U+FF1F.pbm",
+    "svg_path": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/glyphs/svg/U+FF1F.svg",
+    "source_line": "/Users/lessismore/Desktop/Archive/CursorCode/taste2/handwriting/lines/IMG_2091_line_04.png"
+  }
+]

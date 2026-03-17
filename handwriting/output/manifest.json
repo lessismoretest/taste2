@@ -1,0 +1,146 @@
+{
+  "pages": {
+    "IMG_2088.jpeg": {
+      "clean": "processed/IMG_2088_clean.png",
+      "bw": "processed/IMG_2088_bw.png",
+      "crop_count": 9,
+      "crops": [
+        "crops/IMG_2088_crop_01.png",
+        "crops/IMG_2088_crop_02.png",
+        "crops/IMG_2088_crop_03.png",
+        "crops/IMG_2088_crop_04.png",
+        "crops/IMG_2088_crop_05.png",
+        "crops/IMG_2088_crop_06.png",
+        "crops/IMG_2088_crop_07.png",
+        "crops/IMG_2088_crop_08.png",
+        "crops/IMG_2088_crop_09.png"
+      ],
+      "lines": [
+        {
+          "id": "IMG_2088_line_01",
+          "path": "lines/IMG_2088_line_01.png",
+          "ocr": "1  ”/ 人一"
+        },
+        {
+          "id": "IMG_2088_line_02",
+          "path": "lines/IMG_2088_line_02.png",
+          "ocr": "| 人LI)"
+        },
+        {
+          "id": "IMG_2088_line_03",
+          "path": "lines/IMG_2088_line_03.png",
+          "ocr": ""
+        },
+        {
+          "id": "IMG_2088_line_04",
+          "path": "lines/IMG_2088_line_04.png",
+          "ocr": "AN 人     站"
+        },
+        {
+          "id": "IMG_2088_line_05",
+          "path": "lines/IMG_2088_line_05.png",
+          "ocr": ""
+        }
+      ]
+    },
+    "IMG_2089.jpeg": {
+      "clean": "processed/IMG_2089_clean.png",
+      "bw": "processed/IMG_2089_bw.png",
+      "crop_count": 8,
+      "crops": [
+        "crops/IMG_2089_crop_01.png",
+        "crops/IMG_2089_crop_02.png",
+        "crops/IMG_2089_crop_03.png",
+        "crops/IMG_2089_crop_04.png",
+        "crops/IMG_2089_crop_05.png",
+        "crops/IMG_2089_crop_06.png",
+        "crops/IMG_2089_crop_07.png",
+        "crops/IMG_2089_crop_08.png"
+      ],
+      "lines": [
+        {
+          "id": "IMG_2089_line_01",
+          "path": "lines/IMG_2089_line_01.png",
+          "ocr": "1 /9   |"
+        },
+        {
+          "id": "IMG_2089_line_02",
+          "path": "lines/IMG_2089_line_02.png",
+          "ocr": "1   1m LI      1/"
+        },
+        {
+          "id": "IMG_2089_line_03",
+          "path": "lines/IMG_2089_line_03.png",
+          "ocr": ""
+        },
+        {
+          "id": "IMG_2089_line_04",
+          "path": "lines/IMG_2089_line_04.png",
+          "ocr": ""
+        }
+      ]
+    },
+    "IMG_2090.jpeg": {
+      "clean": "processed/IMG_2090_clean.png",
+      "bw": "processed/IMG_2090_bw.png",
+      "crop_count": 1,
+      "crops": [
+        "crops/IMG_2090_crop_01.png"
+      ],
+      "lines": [
+        {
+          "id": "IMG_2090_line_01",
+          "path": "lines/IMG_2090_line_01.png",
+          "ocr": ""
+        },
+        {
+          "id": "IMG_2090_line_02",
+          "path": "lines/IMG_2090_line_02.png",
+          "ocr": ""
+        }
+      ]
+    },
+    "IMG_2091.jpeg": {
+      "clean": "processed/IMG_2091_clean.png",
+      "bw": "processed/IMG_2091_bw.png",
+      "crop_count": 3,
+      "crops": [
+        "crops/IMG_2091_crop_01.png",
+        "crops/IMG_2091_crop_02.png",
+        "crops/IMG_2091_crop_03.png"
+      ],
+      "lines": [
+        {
+          "id": "IMG_2091_line_01",
+          "path": "lines/IMG_2091_line_01.png",
+          "ocr": "1  1 1 LI     站   、"
+        },
+        {
+          "id": "IMG_2091_line_02",
+          "path": "lines/IMG_2091_line_02.png",
+          "ocr": "| 和      TD 、"
+        },
+        {
+          "id": "IMG_2091_line_03",
+          "path": "lines/IMG_2091_line_03.png",
+          "ocr": ""
+        },
+        {
+          "id": "IMG_2091_line_04",
+          "path": "lines/IMG_2091_line_04.png",
+          "ocr": ""
+        },
+        {
+          "id": "IMG_2091_line_05",
+          "path": "lines/IMG_2091_line_05.png",
+          "ocr": "4了T 再f刀 下作人几 “和二"
+        },
+        {
+          "id": "IMG_2091_line_06",
+          "path": "lines/IMG_2091_line_06.png",
+          "ocr": ""
+        }
+      ]
+    }
+  }
+}
